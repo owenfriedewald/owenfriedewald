@@ -18,7 +18,7 @@
 
 ## 📂 Featured Projects
 - **[AI Test Tutor](https://github.com/owenfriedewald/ai-test-tutor)** – Next.js + OpenAI study assistant  
-- **[Pixel Bowls NFT Collection] (1000+ generative assets with Python + Solidity   
+- **[Pixel Bowls NFT Collection]** (1000+ generative assets with Python + Solidity   
 
 ---
 
