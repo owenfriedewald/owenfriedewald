@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Owen 👋  
 
-<!--
-**owenfriedewald/owenfriedewald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Dual B.S. in Electrical Engineering & Computer Engineering @ University of Missouri  
+⚡ Undergraduate Researcher in **EDA Acceleration with LLMs** + **Quantum FPGA**  
+📡 Broadcast Weathercaster at KOMU 8 (NBC affiliate)  
+💻 Passionate about **HPC, AI hardware optimization, and cutting-edge computing**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Interests
+- **Programming & HPC**: C, Python, CUDA Fundamentals, Parallel Programming, MATLAB  
+- **Hardware & Systems**: FPGA Development, Computer Architecture, Digital & Analog Circuit Design  
+- **EDA & Simulation**: PSpice, PySpice, CAD Tools, EDA with LLM Integration  
+- **AI & Emerging Computing**: Quantum FPGA (ongoing), Neuromorphic Computing, GPU Acceleration  
+- **Communication**: Public Speaking, On-Air Presentation, Leadership  
+
+---
+
+## 📂 Featured Projects
+- **[AI Test Tutor](https://github.com/owenfriedewald/ai-test-tutor)** – Next.js + OpenAI study assistant  
+- **[Pixel Bowls NFT Collection] (1000+ generative assets with Python + Solidity   
+
+---
+
+## 🌐 Connect
+- [LinkedIn](https://linkedin.com/in/owenfriedewald)  
+- [KOMU Profile](https://www.komu.com/users/profile/owen%20friedewald/)
