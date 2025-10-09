@@ -17,8 +17,9 @@
 ---
 
 ## 📂 Featured Projects
+- **[CUDA Fundamentals](https://github.com/owenfriedewald/cuda-vector-matrix)** – GPU vs CPU benchmarking with error-checked memory management, kernel launches, timing analysis
 - **[AI Test Tutor](https://github.com/owenfriedewald/ai-test-tutor)** – Next.js + OpenAI study assistant  
-- **[Pixel Bowls NFT Collection]** (1000+ generative assets with Python + Solidity   
+- **Pixel Bowls NFT Collection** (1000+ generative assets with Python + Solidity   
 
 ---
 
