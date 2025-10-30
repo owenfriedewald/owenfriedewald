@@ -1,7 +1,7 @@
 # Hi, I'm Owen 👋  
 
 🎓 Dual B.S. in Electrical Engineering & Computer Engineering @ University of Missouri  
-⚡ Lead Researcher for AnalogDSL **EDA Acceleration with LLMs**
+⚡ Lead Researcher for AnalogDSL **EDA Acceleration with LLMs**  
 📡 Broadcast Weathercaster at KOMU 8 (NBC affiliate)  
 💻 Passionate about **HPC, AI hardware optimization, and cutting-edge computing**  
 
