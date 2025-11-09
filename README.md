@@ -1,4 +1,4 @@
-# Hi, I'm Owen
+# Welcome! I'm Owen
 
 Dual B.S. in Electrical Engineering & Computer Engineering @ University of Missouri  
 Lead Researcher for AnalogDSL **EDA Acceleration with LLMs**  
