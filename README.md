@@ -5,6 +5,8 @@ Lead Researcher for AnalogDSL **EDA Acceleration with LLMs**
 Broadcast Weathercaster at KOMU 8 (NBC affiliate)  
 Passionate about **HPC, AI hardware optimization, and cutting-edge computing**  
 
+![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenfriedewald&show_icons=true&theme=dark)
+
 ---
 
 ## Skills & Interests
