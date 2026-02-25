@@ -1,7 +1,7 @@
 # Owen Friedewald
 
 Dual B.S. in Electrical Engineering & Computer Engineering  
-University of Missouri (Mizzou)
+University of Missouri
 
 Undergraduate research fellow and lead researcher on AnalogDSL (EDA acceleration with LLMs) under Dr. Ali Shiri Sichani.  
 Interested in GPU acceleration, high-performance computing, and AI hardware/software co-design.
