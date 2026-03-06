@@ -41,12 +41,11 @@ Interested in GPU acceleration, high-performance computing, and AI hardware/soft
 
 ## Featured Projects
 
-**[CUDA Vector & Matrix Benchmarks](https://github.com/owenfriedewald/cuda-vector-matrix)**  
-CUDA C++ benchmarks comparing GPU vs CPU performance with optimized memory management and kernel launches.
-
-
 **[SystemVerilog Matrix Accelerator](https://github.com/owenfriedewald/systemverilog-matrix-accelerator)**  
 Pipelined SystemVerilog matrix-multiply accelerator with an N×N MAC array, FSM control, signed fixed-point datapath, and self-checking directed/randomized testbenches (Icarus Verilog verified).
+
+**[CUDA Vector & Matrix Benchmarks](https://github.com/owenfriedewald/cuda-vector-matrix)**  
+CUDA C++ benchmarks comparing GPU vs CPU performance with optimized memory management and kernel launches.
 
 **[C Systems Labs](https://github.com/owenfriedewald/c-systems-labs)**  
 Systems-level C implementations covering dynamic memory, data structures, and low-level file I/O.
