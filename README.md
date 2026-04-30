@@ -50,6 +50,9 @@ CUDA C++ benchmarks comparing GPU vs CPU performance with optimized memory manag
 **[C Systems Labs](https://github.com/owenfriedewald/c-systems-labs)**  
 Systems-level C implementations covering dynamic memory, data structures, and low-level file I/O.
 
+**[VHDL Conway's Game of Life](https://github.com/owenfriedewald/vhdl_game_of_life)**  
+VHDL implementation of Conway's Game of Life for the Digilent Nexys 4 DDR board with a Xilinx Artix-7 FPGA. The design uses an existing 640x480 VGA timing path and renders a 40 by 30 Life grid with 16 by 16 pixel cells.
+
 **[Monte Carlo BJT Analysis](https://github.com/owenfriedewald/montecarlo_bjt)**  
 MATLAB Monte Carlo analysis of NPN BJT parameter variation and statistical device behavior.
 
