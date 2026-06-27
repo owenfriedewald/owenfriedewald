@@ -26,7 +26,7 @@ My broader interests include EDA, computer architecture, GPU acceleration, high-
 Lead researcher on an ongoing EDA project developing a domain-specific language and validation pipeline for translating analog circuit descriptions into structured layout constraints. The project focuses on making LLM-assisted analog design more reliable through typed representations, deterministic validation, bounded repair, and backend-aware constraint lowering.
 
 **[Shielded QRL for QEDA Phase Components](https://github.com/owenfriedewald/shielded-qrl)**
-Code and logs for Shielded RL for Route-Charged Parity-Term Ordering in QEDA phase components. This work explores reinforcement-learning-guided ordering methods for reducing routed circuit cost in quantum-for-EDA workflows.
+Code and logs for Shielded RL for Route-Charged Parity-Term Ordering in QEDA phase components. This work explores reinforcement-learning-guided ordering methods for reducing routed circuit cost in problems related to quantum computing for EDA, specifically for placement.
 
 ---
 
