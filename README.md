@@ -5,7 +5,7 @@ University of Missouri
 
 Undergraduate research fellow and University of Missouri Quantum Innovation Center Intern working with Dr. Ali Shiri Sichani on electronic design automation, LLM-assisted analog design tooling, and quantum-inspired optimization methods for EDA. Lead researcher on AnalogDSL, a domain-specific language and tooling pipeline for mapping analog circuit intent into structured layout constraints.
 
-My broader interests include EDA, computer architecture, GPU acceleration, high-performance computing, and AI hardware/software co-design.
+My broader interests include quantum computing, EDA, computer architecture, GPU acceleration, high-performance computing, and AI hardware/software co-design.
 
 ---
 
