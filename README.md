@@ -26,7 +26,10 @@ My broader interests include quantum computing, EDA, computer architecture, GPU 
 Lead researcher on an ongoing EDA project developing a domain-specific language and validation pipeline for translating analog circuit descriptions into structured layout constraints. The project focuses on making LLM-assisted analog design more reliable through typed representations, deterministic validation, bounded repair, and backend-aware constraint lowering.
 
 **[Shielded QRL for QEDA Phase Components](https://github.com/owenfriedewald/shielded-qrl)**
-Code and logs for Shielded RL for Route-Charged Parity-Term Ordering in QEDA phase components. This work explores reinforcement-learning-guided ordering methods for reducing routed circuit cost in problems related to quantum computing for EDA, specifically for placement.
+Code and logs for Shielded RL for Route-Charged Parity-Term Ordering in QEDA phase components, accepted at QCRL 2026, co-located with the IEEE International Conference on Quantum Computing and Engineering (IEEE Quantum Week 2026), preprint: https://arxiv.org/abs/2607.15307. This work explores reinforcement-learning-guided ordering methods for reducing routed circuit cost in problems related to quantum computing for EDA, specifically for placement.
+
+**[Plateau-Constrained Selection of Commuting Phase-Term Orderings Under a Fixed Maintained-Parity Compiler Contract](https://github.com/owenfriedewald/compiler-freedom)**
+Code, data, and reproducibility materials for Plateau-Constrained Selection of Commuting Phase-Term Orderings Under a Fixed Maintained-Parity Compiler Contract, currently under review at IEEE Transactions on Quantum Engineering. This work studies how degeneracy among equal-primary-cost term orderings can be exploited as a secondary quantum compiler freedom, improving routed circuit depth while preserving the certified primary objective exactly. The study includes formal characterization of the ordering plateau, replication across problem sizes and MaxCut instances, router-transfer analysis, and prospective execution on IBM Heron hardware.
 
 ---
 
