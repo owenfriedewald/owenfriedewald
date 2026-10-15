@@ -55,7 +55,7 @@ Systems-level C implementations covering dynamic memory, data structures, and lo
 ## Technical Background
 
 **Languages & Programming**
-C, C++, Python, MATLAB, CUDA C++, SystemVerilog, VHDL, ARM Assembly
+C, C++, Python, MATLAB, CUDA C++, SystemVerilog, VHDL, ARM/RISC Assembly
 
 **Systems & Tools**
 Linux, Git, Make, Qiskit, PSpice, PySpice, Icarus Verilog, FPGA development tools
